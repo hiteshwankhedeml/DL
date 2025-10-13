@@ -1,4 +1,4 @@
-# ANN Intuition and Learning
+# 🟢 ANN Intuition and Learning
 
 * Backward propagation was invented Geoffrey Hinton
 * Dataset: IQ, Study hours, Play hours, Output
@@ -17,8 +17,8 @@
 * To minimize the error, we have to update the weights
 * Once we have the error from the the 1st record, we will back propagate and then update the weights
 * Similarly we will do for 2nd record and all
-* **Cost function:** If we calculate difference between actual and predicted then for all the points using summation
-* **Error function:** If we calculate difference for a single point
+* <mark style="color:purple;background-color:purple;">**Cost function:**</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">If we calculate difference between actual and predicted then for all the points using summation</mark>
+* <mark style="color:purple;background-color:purple;">**Error function:**</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">If we calculate difference for a single point</mark>
 *
 
     <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

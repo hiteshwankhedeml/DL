@@ -1,16 +1,16 @@
-# Back Propagation and Weight updation
+# 🟢 Back Propagation and Weight updation
 
 **Loss Function:**
 
-* Regression: MSE, MAE, Huber loss
-* Classification: Binary cross entropy, Categorical cross entropy
+* **Regression:** MSE, MAE, Huber loss
+* **Classification:** Binary cross entropy, Categorical cross entropy
 
 
 
 **Backpropagation:**
 
 * &#x20;If there is multi class classification, then we can use multiple neurons in the output
-* Updation of weigts will happen in backward propogation
+* <mark style="color:purple;background-color:purple;">**Updation of weights will happen in backward propagation**</mark>
 *
 
     <figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
@@ -29,16 +29,16 @@
 
 **Optimizer:**
 
-* To minimize loss function we use optimizer
+* <mark style="color:purple;background-color:purple;">**To minimize loss function we use optimizer**</mark>
 * Here this is gradient descent optimizer, there are different optimizers
 * We have to reach global minima
-* W.r.t initial weights we get some loss
+* <mark style="color:purple;background-color:purple;">**W.r.t initial weights we get some loss**</mark>
 * Derivative means we are trying to a tangent/slope
 * We need to see the right side of the line
 * Whenever its pointing downwards then we will be getting -ve slope
 * So in this case, weight will increase
 * If w is on the other side of global minima, if we calculate slope, then it will be +ve
 * So weight will reduce
-* Slope at global minima will be 0
+* <mark style="color:purple;background-color:purple;">**Slope at global minima will be 0**</mark>
 
 <figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>

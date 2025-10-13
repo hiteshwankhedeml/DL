@@ -1,4 +1,4 @@
-# Why DL is getting popular?
+# 🟢 Why DL is getting popular?
 
 * 2005 - 2012: Facebook was launched ⇒ People started posting stories, images etc
 * Youtube, whatsapp, linkedin launched

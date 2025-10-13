@@ -1,10 +1,10 @@
-# Tanh Activation
+# 🟢 Tanh Activation
 
-* &#x20;Transforms value between -1 and +1
-* Derivative ranges between 0 to 1
+* <mark style="color:purple;background-color:purple;">**Transforms value between -1 and +1**</mark>
+* <mark style="color:purple;background-color:purple;">**Derivative ranges between 0 to 1**</mark>
 * It is a hyperbolic tangent function
-* Zero centered
-* For a medium sized NN it wont face any problem, but for very deep neural network we might still face vanishing gradient problem
+* <mark style="color:purple;background-color:purple;">**Zero centered**</mark>
+* <mark style="color:purple;background-color:purple;">**For a medium sized NN it wont face any problem, but for very deep neural network we might still face vanishing gradient problem**</mark>
 * In binary classification, tanh is used in hidden layer and sigmoid is used in output layer
 *
 
@@ -13,8 +13,8 @@
 **Cons:**
 
 * Vanishing gradient exists for deep NN
-* Computations are more
+* <mark style="color:purple;background-color:purple;">Computations are more</mark>
 
-Pros:
+**Pros:**
 
-* Zero centered -> Weight updation effecient
+* <mark style="color:purple;background-color:purple;">Zero centered ⇒ Weight updation efficient</mark>
