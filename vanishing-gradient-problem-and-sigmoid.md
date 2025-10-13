@@ -3,7 +3,7 @@
 * This is 2 layered NN with sigmoid as activation function
 *
 
-    <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sigmoid:
 
@@ -19,7 +19,7 @@ Sigmoid:
 * To solve this researchers started exploring other activation function = tanh, relu, pre relu, swiss
 *
 
-    <figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>

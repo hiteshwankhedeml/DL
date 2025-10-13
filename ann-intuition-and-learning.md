@@ -7,7 +7,7 @@
 * In feed forward, we will assign weights and bias, which are assigned randomly
 *
 
-    <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 * Forward Propagation:
 * In 1st step we will do summation of x1w1 + x2w2 + x3w3 + b1, this will be our z
 * After this we apply activation function on z
@@ -21,7 +21,7 @@
 * <mark style="color:purple;background-color:purple;">**Error function:**</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">If we calculate difference for a single point</mark>
 *
 
-    <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>

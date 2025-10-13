@@ -13,7 +13,7 @@
 * <mark style="color:purple;background-color:purple;">**Updation of weights will happen in backward propagation**</mark>
 *
 
-    <figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Weight updation formula:**
 
@@ -25,7 +25,7 @@
 * If its very small 0.001 then weight updation will happen slowly
 * Learning rate decides the step size towards global minima
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Optimizer:**
 
@@ -41,4 +41,4 @@
 * So weight will reduce
 * <mark style="color:purple;background-color:purple;">**Slope at global minima will be 0**</mark>
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@
 * <mark style="color:purple;background-color:purple;">**Used in hidden layer**</mark>
 *   <mark style="color:purple;background-color:purple;">**Derivative is in range of 0 and 0.25**</mark>
 
-    <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;background-color:purple;">**Cons:**</mark>
 

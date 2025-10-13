@@ -13,10 +13,10 @@
 * <mark style="color:purple;background-color:purple;">**Activation function is to transform the output between some values(0 to 1, -1 to +1)**</mark>
 *
 
-    <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 * <mark style="color:purple;background-color:purple;">**In step function, threshold will be 0**</mark>
 * <mark style="color:purple;background-color:purple;">**In sigmoid function, threshold will be 0.5**</mark>
 * For linear classification, with the help of perceptron we are able to create a line which can separate  classes

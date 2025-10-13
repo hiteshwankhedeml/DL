@@ -7,13 +7,13 @@
 * O1 is dependent on W1, O2 is dependent on W4, W4 is dependent on O1
 *
 
-    <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;background-color:purple;">**Assignment:**</mark>
 
 *
 
-    <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>

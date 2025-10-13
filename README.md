@@ -2,7 +2,7 @@
 
 *
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 * <mark style="color:purple;background-color:purple;">**AI is to create applications that will be able to perform its own task**</mark>
 * Example: Netflix recommendation, Self driving car, amazon recommendation
 * ML is subset of AI and provides stats tools to analyze, visualize and do do forecast and predict

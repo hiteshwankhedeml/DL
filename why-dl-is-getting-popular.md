@@ -14,6 +14,6 @@ Reason why DL became famous:
 2. <mark style="color:purple;background-color:purple;">**Huge amount of data is generated ⇒  DL models performs well**</mark>
 3.  <mark style="color:purple;background-color:purple;">**New DL algorithm is able to give better performance with huge data**</mark>
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 4. DL is used in many domains
 5. <mark style="color:purple;background-color:purple;">**Opensource frameworks like tensorflow, pytorch ⇒  good community support and more research continuously**</mark>
