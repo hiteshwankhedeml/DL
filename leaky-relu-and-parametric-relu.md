@@ -7,10 +7,11 @@
 
     <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Pros:
+<mark style="color:purple;background-color:purple;">**Pros:**</mark>
 
-* Removes dead relu issue
+* <mark style="color:purple;background-color:purple;">Removes dead relu issue</mark>
 
-Cons:
+<mark style="color:purple;background-color:purple;">**Cons:**</mark>
 
-* Not Zero centric
+* <mark style="color:purple;background-color:purple;">Not Zero centric</mark>
+
