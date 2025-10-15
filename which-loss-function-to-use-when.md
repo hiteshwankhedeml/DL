@@ -1,4 +1,4 @@
-# Which Loss function to use when
+# 🟢 Which Loss function to use when
 
 | Hidden Layers       | Output Layer | Problem Statement          | Loss Function              |
 | ------------------- | ------------ | -------------------------- | -------------------------- |
