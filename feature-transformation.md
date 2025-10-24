@@ -1,4 +1,16 @@
-# Feature Transformation
+# 🟢 Feature Transformation
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">read csv</mark>
+* <mark style="color:purple;background-color:purple;">drop columns which are not required</mark>
+* <mark style="color:purple;background-color:purple;">Encode categorical variables like gender using labelencoder from sklearn</mark>
+* <mark style="color:purple;background-color:purple;">Encode categorical variables like geography using onehot encoder from sklearn</mark>
+* <mark style="color:purple;background-color:purple;">Get the column names for the new added categorical variables using get\_feature\_names\_out from sklearn</mark>
+* <mark style="color:purple;background-color:purple;">Separate X and y</mark>
+* <mark style="color:purple;background-color:purple;">Train-test split</mark>
+* <mark style="color:purple;background-color:purple;">Standardize using standard scalar</mark>&#x20;
+* <mark style="color:purple;background-color:purple;">Save label encoder, one hot encoder and standard scalar as pickle files</mark>
 
 ```python
 import pandas as pd

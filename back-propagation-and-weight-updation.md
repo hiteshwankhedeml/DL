@@ -23,7 +23,7 @@
 * Derivative means we are trying to find the slope, depending on whether its positive or negative we increase or decrease the weight
 * We also have learning rate
 * If its very small 0.001 then weight updation will happen slowly
-* Learning rate decides the step size towards global minima
+* <mark style="color:purple;background-color:purple;">**Learning rate decides the step size towards global minima**</mark>
 
 <figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 

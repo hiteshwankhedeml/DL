@@ -17,7 +17,7 @@
 *
 
     <figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
-* <mark style="color:purple;background-color:purple;">**In step function, threshold will be 0**</mark>
-* <mark style="color:purple;background-color:purple;">**In sigmoid function, threshold will be 0.5**</mark>
+* <mark style="color:purple;background-color:purple;">**In step function, threshold will be 0 and output will be 0 or 1**</mark>
+* <mark style="color:purple;background-color:purple;">**In sigmoid function, threshold will be 0.5, and output will be between 0 and 1**</mark>
 * For linear classification, with the help of perceptron we are able to create a line which can separate  classes
 * That means perceptron is a linear classifier
