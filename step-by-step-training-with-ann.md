@@ -1,6 +1,12 @@
-# Step by Step training with ANN
+# 🟢 Step by Step training with ANN
 
-*
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**Build the network**</mark>
+* <mark style="color:purple;background-color:purple;">**Compile by passing optimizer, loss, accuracy**</mark>
+* <mark style="color:purple;background-color:purple;">**Define earlystopping by specifying patience etc**</mark>
+* <mark style="color:purple;background-color:purple;">**mode.fit by passing data, callbacks and epochs**</mark>
+*   <mark style="color:purple;background-color:purple;">**Save the model as .h5**</mark>
 
     <figure><img src=".gitbook/assets/{9FCA4D78-F7EB-47D3-BDF8-E1ADDB49E5F2}.png" alt=""><figcaption></figcaption></figure>
 

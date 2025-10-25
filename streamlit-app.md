@@ -1,4 +1,8 @@
-# Streamlit App
+---
+hidden: true
+---
+
+# ✈️ Streamlit App
 
 ```python
 import streamlit as st

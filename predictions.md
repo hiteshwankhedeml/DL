@@ -1,4 +1,9 @@
-# Predictions
+# 🟢 Predictions
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**Do the same pre-processing as done on training data**</mark>
+* <mark style="color:purple;background-color:purple;">**model.predict**</mark>
 
 ```python
 import tensorflow as tf

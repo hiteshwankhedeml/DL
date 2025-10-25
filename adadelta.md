@@ -1,7 +1,7 @@
 # 🟢 Adadelta
 
 * <mark style="color:purple;background-color:purple;">**The numerator is the RMS (root mean square) of past parameter updates.**</mark>
-* <mark style="color:purple;background-color:purple;">**It controls the size of the step we take for this parameter.**</mark>
+* <mark style="color:red;background-color:purple;">**It controls the size of the step we take for this parameter.**</mark>
 * <mark style="color:purple;background-color:purple;">**if past updates were small, the step stays small; if past updates were large, the step can be larger.**</mark>
 * <mark style="color:purple;background-color:purple;">**Unlike RMSProp (where numerator is fixed α), Adadelta’s numerator adapts automatically based on history.**</mark>
 
