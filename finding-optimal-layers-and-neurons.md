@@ -1,11 +1,18 @@
-# Finding Optimal Layers and Neurons
+# 🟢 Finding Optimal Layers and Neurons
 
-* Start Simple: Begin with a simple architecture and gradually increase complexity if needed.
-* Grid Search/Random Search: Use grid search or random search to try different architectures.
-* Cross-Validation: Use cross-validation to evaluate the performance of different architectures.
-* Heuristics and Rules of Thumb: Some heuristics and empirical rules can provide starting points, such as:
-  * The number of neurons in the hidden layer should be between the size of the input layer and the size of the output layer.
-  * A common practice is to start with 1-2 hidden layers.
+* <mark style="color:purple;background-color:purple;">**Start Simple: Begin with a simple architecture and gradually increase complexity if needed.**</mark>
+* <mark style="color:purple;background-color:purple;">**Grid Search/Random Search: Use grid search or random search to try different architectures.**</mark>
+* <mark style="color:purple;background-color:purple;">**Cross-Validation: Use cross-validation to evaluate the performance of different architectures.**</mark>
+* <mark style="color:purple;background-color:purple;">**Heuristics and Rules of Thumb: Some heuristics and empirical rules can provide starting points, such as:**</mark>
+  * <mark style="color:purple;background-color:purple;">**The number of neurons in the hidden layer should be between the size of the input layer and the size of the output layer.**</mark>
+  * <mark style="color:purple;background-color:purple;">**A common practice is to start with 1-2 hidden layers.**</mark>
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">Define a function, in which if we give no. of layers , neurons then it should be able to construct model</mark>
+* <mark style="color:purple;background-color:purple;">Create a model by using Keras classificer, we can pass above function and no. of layers / neurons to it</mark>
+* <mark style="color:purple;background-color:purple;">Construct param grid</mark>
+* <mark style="color:purple;background-color:purple;">Use gridsearch CV pass the above model and param grid to it</mark>
 
 ```python
 ## Define a function to create the model and try different parameters(KerasClassifier)

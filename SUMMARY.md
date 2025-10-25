@@ -57,5 +57,5 @@
 * [🟢 Step by Step training with ANN](step-by-step-training-with-ann.md)
 * [🟢 Predictions](predictions.md)
 * [✈️ Streamlit App](streamlit-app.md)
-* [ANN Regression Problem Statement](ann-regression-problem-statement.md)
-* [Finding Optimal Layers and Neurons](finding-optimal-layers-and-neurons.md)
+* [🟢 ANN Regression Problem Statement](ann-regression-problem-statement.md)
+* [🟢 Finding Optimal Layers and Neurons](finding-optimal-layers-and-neurons.md)

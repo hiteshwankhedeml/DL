@@ -1,6 +1,9 @@
-# ANN Regression Problem Statement
+# 🟢 ANN Regression Problem Statement
 
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
+* <mark style="color:purple;background-color:purple;">Just check the loss in compile</mark>
+* <mark style="color:purple;background-color:purple;">In the output layer, no activation function has been used</mark>
 
 ```python
 import pandas as pd
