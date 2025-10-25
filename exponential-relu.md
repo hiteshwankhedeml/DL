@@ -5,7 +5,7 @@
 * <mark style="color:purple;background-color:purple;">**α = positive constant (commonly set to 1)**</mark>
 *   <mark style="color:purple;background-color:purple;">**e = Euler’s number (\~2.71828)**</mark>
 
-    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;background-color:purple;">**Pros:**</mark>
 

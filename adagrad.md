@@ -1,9 +1,14 @@
-# Adagrad
+---
+hidden: true
+---
+
+# ✈️ Adagrad
 
 * Learning rate is generally a small value and it decides the speed of the convergence
 * Till now in all the optimizers, learning rate used to be fixed
-* We try to make this learning rate dynamic
-* So initially for convergence it should take bigger steps and when it reaches minima, its speed should decrease
+* We try to make this <mark style="color:purple;background-color:purple;">**learning rate dynamic**</mark>
+* So <mark style="color:purple;background-color:purple;">**initially for convergence it should take bigger steps and when it reaches minima, its speed should decrease**</mark>
+* <mark style="color:purple;background-color:purple;">**Learning rate is different for each parameter**</mark>
 * Here instead of learning rate, we will be using learning rate dash here
 * Epsilon is a small value which is added to ensure that learning rate does not become zero
 * Alpha is given as the summation of square of derivate of loss w.r.t t&#x20;
@@ -13,8 +18,8 @@
 * So as we go through each and every hidden layer w.r.t back propagation, the alpha will increase
 *   That is how the new dynamic learning rate will decrease
 
-    <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Disadvantage:**
 
-* In a very deep neural network =, the alpha can be do big that learning rate will become very very small which might be approx to 0
+* In a very deep neural network, the alpha can be so big that learning rate will become very very small which might be approx to 0

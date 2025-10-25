@@ -5,7 +5,7 @@
 * <mark style="color:purple;background-color:purple;">**This solves dead relu issue**</mark>
 *
 
-    <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;background-color:purple;">**Pros:**</mark>
 

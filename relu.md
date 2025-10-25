@@ -3,7 +3,7 @@
 * Rectified linear unit
 * <mark style="color:purple;background-color:purple;">**Output will be max of 0 or Z**</mark>
 * <mark style="color:purple;background-color:purple;">**Derivative will be either 0 or 1**</mark>
-* <mark style="color:purple;background-color:purple;">**If z is -ve its derivative will be 0, if its +ve then it will be 1**</mark>
+* <mark style="color:red;background-color:purple;">**If z is -ve its derivative will be 0, if its +ve then it will be 1**</mark>
 * <mark style="color:purple;background-color:purple;">**If its 1 then weight updation will occur**</mark>
 * <mark style="color:purple;background-color:purple;">**If its 0 then it creates a dead neuron**</mark>
 *

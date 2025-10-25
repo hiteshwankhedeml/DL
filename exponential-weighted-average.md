@@ -1,7 +1,7 @@
 # 🟢 Exponential weighted average
 
 * <mark style="color:purple;background-color:purple;">**Smooths a sequence of values by giving more weight to recent values and less to older values**</mark>
-* <mark style="color:purple;background-color:purple;">**Formula: v\_t = β \* v\_(t-1) + (1 - β) \* x\_t**</mark>
+* <mark style="color:purple;background-color:purple;">**Formula:**</mark> $$v_t = β * v_(t-1) + (1 - β) * x_t$$
   * <mark style="color:purple;background-color:purple;">**v\_t = current smoothed value**</mark>
   * <mark style="color:purple;background-color:purple;">**v\_(t-1) = previous smoothed value**</mark>
   * <mark style="color:purple;background-color:purple;">**x\_t = current value (e.g., gradient)**</mark>
